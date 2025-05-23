@@ -1,0 +1,9 @@
+# Ignore Eclipse/STS settings
+.metadata/
+*.log
+*.tmp
+*.bak
+bin/
+target/
+build/
+.gradle/
